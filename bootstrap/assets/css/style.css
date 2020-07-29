@@ -1,0 +1,7 @@
+.jumbotron-fluid{
+    height: 400px;
+    background-image: url('../img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0;
+}
